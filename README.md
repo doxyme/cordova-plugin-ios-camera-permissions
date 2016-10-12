@@ -7,7 +7,7 @@
 #### Latest version from GitHub
 
 ```
-cordova plugin add https://github.com/FreshGrade/cordova-plugin-ios-camera-permissions.git --save
+cordova plugin add https://github.com/doxyme/cordova-plugin-ios-camera-permissions.git --save
 ```
 
 ## Platforms
