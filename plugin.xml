@@ -10,13 +10,10 @@
     </engines>
     <platform name="ios">
       <config-file platform="ios" parent="NSCameraUsageDescription" target="*-Info.plist">
-        <string>This lets you take photos and videos and add them to your FreshGrade portfolio.</string>
-      </config-file>
-      <config-file platform="ios" parent="NSPhotoLibraryUsageDescription" target="*-Info.plist">
-        <string>This lets you add photos and videos to your FreshGrade portfolio.</string>
+        <string>This lets you stream Video while on doxy.me.</string>
       </config-file>
       <config-file platform="ios" parent="NSMicrophoneUsageDescription" target="*-Info.plist">
-        <string>This lets you record audio to your FreshGrade portfolio.</string>
+        <string>This lets you stream Audio while on doxy.me.</string>
       </config-file>
     </platform>
 </plugin>
